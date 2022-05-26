@@ -1,0 +1,5 @@
+{
+    "OriginDatabaseURL":"https://botaprarodartest-default-rtdb.firebaseio.com/",
+    "OriginCertificateJson":"resources/OriginCertificateJson.json",
+    "OriginJsonFile": "resources/OriginJson.json"
+}
